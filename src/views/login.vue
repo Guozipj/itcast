@@ -1,5 +1,5 @@
 <template>
-<div id="app">这是一个根目录</div>
+<div id="app">登录</div>
 </template>
 
 <script>
